@@ -1,0 +1,6 @@
+*.o
+obj
+cub3d
+*libft.a
+*terminal_engine.a
+*build
